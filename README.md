@@ -125,3 +125,43 @@ A **user-friendly design** is crucial for any booking system because it:
 By keeping the interface simple, attractive, and intuitive, the system encourages repeat users and positive experiences.
 
 ---
+By keeping the interface simple, attractive, and intuitive, the system encourages repeat users and positive experiences.
+
+---
+
+## More UI/UX Design Planning
+
+### 🎨 Color Styles
+- **Primary Color:** #FF5A5F  
+- **Secondary Color:** #008489  
+- **Background Color:** #FFFFFF  
+- **Text Color:** #222222  
+- **Secondary Text Color:** #717171  
+
+These colors were chosen for clarity, readability, and to reflect the friendly and modern design of Airbnb’s style.
+
+---
+
+### ✍️ Typography
+- **Primary Font:** Circular  
+- **Font Weights:**  
+  - Bold (700) — used for headings and titles  
+  - Medium (500) — used for labels and important text  
+  - Book (400) — used for regular text and descriptions  
+- **Font Sizes:**  
+  - Headings: 24px–32px  
+  - Body Text: 16px  
+  - Secondary Text: 14px  
+
+Typography plays a big role in maintaining a professional and clean appearance across the app.
+
+---
+
+### 💡 Importance of Identifying Design Properties
+Understanding and documenting design properties such as **color schemes**, **fonts**, and **sizes** helps maintain:
+- **Consistency** across all pages and components  
+- **Brand identity** that feels unified and trustworthy  
+- **Accessibility**, making content easier to read for all users  
+- **Faster development**, since developers can easily follow the same design system  
+
+By identifying these properties early, the design remains cohesive and efficient throughout the project.
