@@ -165,3 +165,26 @@ Understanding and documenting design properties such as **color schemes**, **fon
 - **Faster development**, since developers can easily follow the same design system  
 
 By identifying these properties early, the design remains cohesive and efficient throughout the project.
+
+---
+
+## Project Roles and Responsibilities
+
+In a full-stack project like this Airbnb Clone, teamwork and role clarity are essential for smooth progress and successful delivery.  
+Below are the key roles and their primary responsibilities.
+
+| **Role** | **Responsibilities** |
+|-----------|----------------------|
+| **Project Manager** | Oversees the project timeline, ensures tasks are completed on schedule, manages communication between team members, and ensures goals are met. |
+| **Frontend Developers** | Build the user interface using HTML, CSS, and JavaScript (React). They ensure the website is responsive, accessible, and visually aligned with the Figma design. |
+| **Backend Developers** | Handle server-side logic, API development, and database management. They ensure secure data exchange and system reliability. |
+| **Designers** | Create wireframes, prototypes, and Figma mockups. They maintain a consistent design system, color palette, and user experience standards. |
+| **QA/Testers** | Write and execute test cases to identify bugs, verify features, and ensure the app performs well across devices. They help maintain high-quality standards. |
+| **DevOps Engineers** | Manage deployment, cloud hosting, and CI/CD pipelines. They ensure continuous integration and smooth updates without downtime. |
+| **Product Owner** | Defines project requirements and prioritizes features based on user needs. Represents stakeholder interests and ensures the product vision is clear. |
+| **Scrum Master** | Facilitates Agile processes, organizes stand-up meetings, removes blockers, and ensures collaboration within the development team. |
+
+Each team member plays an important role in creating a functional, user-friendly, and high-quality web application.
+
+---
+
