@@ -242,3 +242,34 @@ By following this approach:
 - Development speed improves as components can be reused in multiple pages.  
 
 ---
+🧭 Workflow Overview
+
+Main Branch (main):
+Contains the stable and reviewed version of the project.
+
+Feature Branches (feature/...):
+Used for developing specific parts of the app such as UI components, authentication, or API routes.
+
+Pull Requests (PRs):
+Every new feature or fix is submitted through a pull request for code review before merging.
+
+Commits:
+Each commit message follows a clear, professional format (e.g., “Added Navbar component and updated layout styles”).
+
+🧰 Version Control Tools
+
+Git: Used locally for version tracking and branching.
+
+GitHub: Hosts the repository, manages collaboration, and tracks issues and pull requests.
+
+🚀 Best Practices
+
+Commit frequently with meaningful messages.
+
+Always pull the latest changes before starting new work.
+
+Use branches to isolate development work.
+
+Request reviews before merging into main.
+
+By following this workflow, the team maintains clean collaboration, code safety, and continuous improvement throughout the project’s lifecycle.
