@@ -188,3 +188,57 @@ Each team member plays an important role in creating a functional, user-friendly
 
 ---
 
+---
+
+## UI Component Patterns
+
+To ensure a consistent, maintainable, and reusable design system, this project uses a **component-based architecture**.  
+Each UI component is designed to be modular and responsive, allowing it to be reused across different parts of the application.
+
+Below are the planned key components for the Airbnb Clone:
+
+### 🧭 Navbar
+**Purpose:**  
+The Navbar (navigation bar) provides quick access to major sections of the website.
+
+**Key Features:**
+- Displays the project logo  
+- Includes a search bar for finding properties  
+- User profile and navigation menu  
+- Fully responsive for desktop and mobile devices  
+
+---
+
+### 🏠 Property Card
+**Purpose:**  
+The Property Card represents an individual property listing in the property grid or search results.
+
+**Key Features:**
+- Property image and short description  
+- Price per night and location details  
+- Rating or review score  
+- “Favorite” (heart) button for saving listings  
+- Responsive layout for all screen sizes  
+
+---
+
+### ⚙️ Footer
+**Purpose:**  
+The Footer provides useful links and company information at the bottom of every page.
+
+**Key Features:**
+- Quick navigation links (Home, About, Contact, etc.)  
+- Social media icons and company contact info  
+- Copyright notice  
+- Matches the website’s primary color theme and typography  
+
+---
+
+### 💡 Component Reusability
+All UI components are built with **reusability** and **consistency** in mind.  
+By following this approach:
+- The design remains uniform across the entire app.  
+- Maintenance becomes easier (changes in one place reflect globally).  
+- Development speed improves as components can be reused in multiple pages.  
+
+---
