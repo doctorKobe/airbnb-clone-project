@@ -77,7 +77,8 @@ This project focuses on:
 
 ---
 
-## UI/UX Design Planning
+---
+## 🎨 More UI/UX Design Planning
 
 ### 🎯 Design Goals
 The main goal of this design is to create a **clean, simple, and user-friendly booking experience** similar to Airbnb.  
